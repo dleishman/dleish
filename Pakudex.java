@@ -62,6 +62,7 @@ public class Pakudex {
         }
     }
 
+    //this adds a Pakuri
     public boolean addPakuri(String species){
         boolean doesntExist = false;
         int placement = getSize();
